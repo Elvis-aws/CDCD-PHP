@@ -20,6 +20,4 @@ phases:
 artifacts:
   files:
     - "*.html"
-  discard-paths: yes
-  base-directory: "php-demo-repo"
             
